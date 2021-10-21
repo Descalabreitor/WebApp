@@ -24,7 +24,7 @@ header {
 }
 
 body { 
-    background-image: url("https://a0.muscache.com/im/pictures/57b9f708-bb12-498c-bc33-769f8fc43e63.jpg?im_w=2560");
+    background-image: url("https://static11.com-hotel.com/uploads/hotel/307140/photo/bungalows-vistaflor_15815077611.jpg");
     background-position: center center;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -202,7 +202,7 @@ select{
   
   .menu{
     text-align: center;
-    margin: 40px;
+    margin: 1px;
   }
   
   .menu li{
@@ -223,4 +223,3 @@ select{
     margin: 20px;
     
   }
-
