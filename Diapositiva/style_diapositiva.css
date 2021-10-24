@@ -20,6 +20,7 @@ body{
   font-family: "Montserrat", sans-serif;
 }
 
+
 ul,li{
   margin: 0;
   padding: 0;
@@ -33,6 +34,14 @@ ul,li{
     cursor:  pointer;
     transition:  all 0.3s ease 0s;
   }
+
+.logo {
+    cursor: pointer;
+    border-radius: 10px;
+    border: 8px solid white;
+}
+
+
 
   .nav__links li {
     display: inline-block;
@@ -59,7 +68,7 @@ nav a:hover {
   margin: auto;
   background-color: #24252A;
   width: 800px;
-  padding: 30px;
+  padding: 60px;
   border-radius: 40px;
 
 }
